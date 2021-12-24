@@ -1,1 +1,5 @@
 # pixeldeneme
+
+ulaş 
+emir
+kadir
